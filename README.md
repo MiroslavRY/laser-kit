@@ -23,4 +23,6 @@
 
 ## Итоговый результат
 
+<img src="https://github.com/user-attachments/assets/dbd886a5-e95a-4baf-9d03-6fdfc6db6182" width="50%" height="50%"/>
+
 
